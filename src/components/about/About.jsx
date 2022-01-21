@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
-import coding from './../../images/coding3.png'
-import Award from './../../images/certificate.png'
+import coding from './../../images/coding3.jpg'
+// import Award from './../../images/certificate.png'
 
 
 
@@ -24,9 +24,9 @@ export default function About() {
           Competencias Profesionales.
         </p>
         <p className="a-desc">
-        Desarrollador web FullStack, certificado en auditor de calidad Iso2015, digitador y servicio al cliente. Con experiencia en trabajo Front-end y Back-End para aplicaciones web y movil, auditando procesos de calidad, logística y servicio al cliente. Con competencias en trabajo en equipo, análisis de problemas, capacidad de adaptación y dinamismo
+        Soy un productor audiovisual con tres años de experiencia en la fotografía y dos años en la edición de video
         </p>
-        <div className="a-award">
+        {/* <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
             <h4 className="a-award-title">Awarded on: 22 Nov 2021</h4>
@@ -34,7 +34,7 @@ export default function About() {
             This is to certify that Leyder Gallego has successfully completed the EF SET Certificate and has earned the English level: <b>C1 Advanced</b>
             </p>
           </div>
-        </div>
+        </div> */}
         
       </div>
     </div>

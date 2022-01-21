@@ -38,15 +38,15 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title">Aquí me podés contactar</h1>
+          <h1 className="c-title">Aquí me puedes contactar</h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +57 3007799557
+              +57 3005314978
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              leyveloper@gmail.com
+              holguinj901@gmail.com
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
@@ -56,7 +56,7 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>¿Cuál es tu historia?</b> Mantengamos el contacto. Disponible para trabajar
+            <b>Todos tenemos una historia que contar.</b> <br /> Contáctame. Porque hay recuerdos que deben perdurar
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nombre" name="user_name" />

@@ -1,6 +1,6 @@
 import React from 'react';
 import './Intro.css';
-import me from './../../images/Perfil2.png'
+import me from './../../images/Perfil2.jpg'
 
 function Intro() {
     return (
@@ -8,21 +8,19 @@ function Intro() {
             <div className='i-left'>
             <div className="i-left-wrapper">
                 <h2 className="i-intro">Hola, Mi nombre es</h2>
-                <h1 className="i-name">Léyder Gallego</h1>  
+                <h1 className="i-name">Johannes D</h1>  
                 <div className="i-title">
                     <div className="i-title-wrapper"> 
-                        <div className="i-title-item">Full Stack Web Developer</div>
-                        <div className="i-title-item">React</div>
-                        <div className="i-title-item">NodeJS</div>
-                        <div className="i-title-item">Express</div>
-                        <div className="i-title-item">Sequelize</div>
-                        <div className="i-title-item">Redux</div>
-                        <div className="i-title-item">Firebase</div>
-                        <div className="i-title-item">PostgreSQL</div>
+                        <div className="i-title-item">Productor de medios audiovisuales</div>
+                        <div className="i-title-item">Fotógrafo</div>
+                        <div className="i-title-item">Photoshop</div>
+                        <div className="i-title-item">After Effects</div>
+                        <div className="i-title-item">Lightroom</div>
+                        
                     </div>
                 </div> 
                 <p className="i-desc">
-                <b>Full Stack web Developer</b>, disfruto de la programación, Soy curioso por naturaleza y me encanta investigar, leer y usar mis conocimientos en la vida diaria
+                <b>Productor de medios audiovisuales. </b>Yo plasmo mi realidad en lo que ves. Tú ves la única realidad que yo no quiero ser
                     </p> 
             </div>
             

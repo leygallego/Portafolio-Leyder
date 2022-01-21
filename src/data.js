@@ -1,33 +1,33 @@
 export const products = [
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-leyder.appspot.com/o/smartcontracts.png?alt=media&token=f0ac3b3d-a9d7-4948-8d8a-888283244b98",
-      link: "https://scmkt-4fe6b.web.app/",
+      img: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c357a127696461.61476a523a39a.jpg",
+      link: "https://www.behance.net/gallery/127696461/Bodas-y-prebodas-1",
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-leyder.appspot.com/o/smartcontracts1.png?alt=media&token=ad15011e-bbfe-45fe-b428-2a38c2645782",
-      link: "https://scmkt-4fe6b.web.app/aboutus",
+      img: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/a2ce9f127696461.61476a53718f9.jpg",
+      link: "https://www.behance.net/gallery/127696461/Bodas-y-prebodas-1",
     },
     {
       id: 3,
-      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-leyder.appspot.com/o/smartcontracts2.png?alt=media&token=c00637f8-d5e3-4e98-a2a6-5e59c6b0f591",
-      link: "https://scmkt-4fe6b.web.app/questions",
+      img: "https://mir-s3-cdn-cf.behance.net/project_modules/disp/8507a2127696461.61476a54eb497.jpg",
+      link: "https://www.behance.net/gallery/127696461/Bodas-y-prebodas-1",
     },
     {
         id: 4,
-        img: "https://firebasestorage.googleapis.com/v0/b/portafolio-leyder.appspot.com/o/smartcontracts3.png?alt=media&token=6142c992-d16c-4806-9973-f176c9026bcc",
-        link: "https://scmkt-4fe6b.web.app/questions",
+        img: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/46d449124753923.610ab2f850635.jpg",
+        link: "https://www.behance.net/gallery/124753923/Retratos",
       },
       {
         id: 5,
-        img: "https://firebasestorage.googleapis.com/v0/b/portafolio-leyder.appspot.com/o/paisesapp.png?alt=media&token=6859a778-8550-4c26-a2e2-a2b1446aea90",
-        link: "https://scmkt-4fe6b.web.app/questions",
+        img: "https://mir-s3-cdn-cf.behance.net/project_modules/disp/3131dd124631287.6197e55129933.jpg",
+        link: "https://www.behance.net/gallery/124631287/FOTOGRAFIA-DE-PRODUCTO",
       },
       {
         id: 6,
-        img: "  https://firebasestorage.googleapis.com/v0/b/portafolio-leyder.appspot.com/o/Pokemon.png?alt=media&token=3e0fff60-9b90-470e-8169-6c16b06608dc",
-        link: "https://scmkt-4fe6b.web.app/questions",
+        img: "https://mir-s3-cdn-cf.behance.net/project_modules/disp/2e90ad124631287.6197e54ebe0e6.jpg",
+        link: "https://www.behance.net/gallery/124631287/FOTOGRAFIA-DE-PRODUCTO",
       },
     
   ];
